@@ -1,0 +1,13 @@
+destination: /var/www/brooksgarrett.com/htdocs/
+disqus_shortname: brooksgarrett
+markdown: redcarpet
+name: BrooksGarrett
+paginate: 10
+permalink: /blog/:categories/:year/:month/:day/:title/
+pygments: true
+timezone: America/New_York
+url: 'http://brooksgarrett.com/'
+# Content Resources
+navigation:
+- text: About
+  url: /about.html

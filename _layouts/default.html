@@ -1,0 +1,17 @@
+---
+paginate: true
+---
+{% include resources.liquid %}
+{% include header.html %}
+{% include navbar.html %}
+    <div class="container">
+        {% if paginate %}
+        {% include paginator.html %}
+        {% endif %}
+	<div class="row-fluid">
+    		<div class="span8">
+      			{{ content }}
+		</div>
+	</div>
+    </div>
+{% include footer.html %}
