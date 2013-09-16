@@ -11,5 +11,3 @@ url: 'http://brooksgarrett.com/'
 navigation:
 - text: About
   url: /about.html
-- text: Speaking
-  url: /speaking/
