@@ -9,7 +9,6 @@ layout: default
 {% for post in paginator.posts %}
 <div class="row-fluid">
   <div class="span12">
-	  <p>NOPE</p>
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <h4>{{ post.date | date_to_long_string }}</h4>
     <p>{{ post.content | truncatehtml:500 }}</p>
