@@ -3,7 +3,7 @@ disqus_shortname: brooksgarrett
 markdown: redcarpet
 name: BrooksGarrett
 paginate: 10
-permalink: /blog/:categories/:year/:month/:day/:title/
+permalink: /blog/:title/
 pygments: true
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
@@ -11,3 +11,7 @@ url: 'http://brooksgarrett.com/'
 navigation:
 - text: About
   url: /about.html
+- text: Speaking
+  url: /speaking/
+
+
