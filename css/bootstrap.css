@@ -1017,6 +1017,7 @@ pre code {
   white-space: pre-wrap;
   background-color: transparent;
   border: 0;
+  font-family: "Monaco", sans-serif;
 }
 
 .pre-scrollable {
