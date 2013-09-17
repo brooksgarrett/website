@@ -3,7 +3,6 @@ layout: default
 title: Speaking
 
 ---
-RAR
 
 #  2013
 
