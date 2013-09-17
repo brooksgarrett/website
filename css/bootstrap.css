@@ -972,7 +972,7 @@ address {
 code,
 pre {
   padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: 'Rationale', sans-serif;
   font-size: 12px;
   color: #333333;
   -webkit-border-radius: 3px;
@@ -1017,7 +1017,6 @@ pre code {
   white-space: pre-wrap;
   background-color: transparent;
   border: 0;
-  font-family: "Monaco", sans-serif;
 }
 
 .pre-scrollable {
