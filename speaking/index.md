@@ -3,7 +3,6 @@ layout: default
 title: Speaking
 
 ---
-nope
 
 #  2013
 
