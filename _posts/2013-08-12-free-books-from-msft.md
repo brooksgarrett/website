@@ -16,7 +16,7 @@ Microsoft apparently has a phat stack of [free books](http://blogs.msdn.com/b/ms
 
 Perhaps if you ran this in the Chrome Console good things will happen?
 
-```
+```js
 function printLink(link) {
   if (link.textContent === 'MOBI'){
     console.log(link.href);
