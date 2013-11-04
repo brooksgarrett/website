@@ -12,7 +12,7 @@ meta:
 
 ---
 
-![Rugby Scrum](http://upload.wikimedia.org/wikipedia/commons/1/18/Poland_vs_Belgium_2009_rugby_%282%29.jpg)
+![Rugby](http://www.nashvillewomensrugby.com/Portals/1509/Images/misc/the_spirit_of_rugby_410105.jpg)
 
 I've been playing rugby for several years now and the sport never lets me down. It is incredibly fast paced, physical, and requires team effort. For proof you can look to the Rugby Sevens tournaments where the USA Eagles featured one of the [fastest men in rugby](http://en.wikipedia.org/wiki/Carlin_Isles) yet still did not win the series even though Rugby 7's is largely a game of speed. The reason is simple. Rugby is a team sport and it is pretty simple to neutralize one key player. Meanwhile, a team of moderately skilled players that cohesively plays as a unit will be far more successful.
 
