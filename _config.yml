@@ -13,5 +13,6 @@ navigation:
   url: /about.html
 - text: Speaking
   url: /speaking/
-
+- text: WishList
+  url: /wishlist/
 
