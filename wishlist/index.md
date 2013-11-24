@@ -26,8 +26,6 @@ Feel free to donate to some of my favority charities:
 +  Beer World
 +  [Microsoft XBox Points - Amazon](http://www.amazon.com/gp/product/B000B9RI14/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000B9RI14&linkCode=as2&tag=brooksgarrett-20)
 +  Olive Garden
-+  [Starbucks - Amazon (I give these to my wife, which makes me happy)](
-
 
 ## Gifts
 
