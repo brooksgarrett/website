@@ -1,4 +1,0 @@
-[submodule "_posts"]
-	path = _posts
-	url = git@github.com:brooksgarrett/posts.git
-	update = rebase
