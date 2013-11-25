@@ -43,5 +43,3 @@ Rugby is by far the greatest sport on the planet *(citation needed...)* I starte
 
 <a href="http://steamprofile.com/" target="_blank"><img src="http://badges.steamprofile.com/profile/default/steam/76561198009534693.png" border="0" alt="Steamprofile badge by Steamprofile.com"></a>
 
-# I Love Reading Books
-
