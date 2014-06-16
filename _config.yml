@@ -1,4 +1,4 @@
-destination: /var/www/brooksgarrett.com/htdocs/
+destination: _site/
 disqus_shortname: brooksgarrett
 markdown: redcarpet
 name: BrooksGarrett
