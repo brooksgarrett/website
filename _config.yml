@@ -15,4 +15,4 @@ navigation:
   url: /speaking/
 - text: WishList
   url: /wishlist.html
-
+exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile']
