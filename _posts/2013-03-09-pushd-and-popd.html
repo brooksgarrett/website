@@ -1,0 +1,13 @@
+---
+layout: post
+title: pushd and popd
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+I don't know how I've gone this long without this pair of commands. 
+Use <em>pushd dir</em> to stick a directory on the dirs stack and <em>popd</em> to take the last off. Where is this useful? Imagine working in <em>/var/www/logs</em> and now you need to peek over at <em>/home/user</em> and while there you pop into some other directory. Well now <em>cd -</em> doesn't work and you're left typing the full path back to the logs you were reviewing. BUT WAIT! Had you <em>pushd logs</em> you could simply <em>popd</em> and be back REGARDLESS of how far you'd traveled. Very useful magic indeed.
