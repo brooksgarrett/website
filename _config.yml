@@ -4,7 +4,7 @@ markdown: redcarpet
 name: BrooksGarrett
 paginate: 5
 permalink: /blog/:title/
-pygments: true
+pygments: false
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
 # Content Resources
