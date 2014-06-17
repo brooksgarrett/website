@@ -19,14 +19,14 @@ A short bit of Google-fu brough me to a [couple](http://askubuntu.com/questions/
 
 1.  Build a clean Xmodmap config
 
-    ```Shell
+    ```bash
 xmodmap -pke >~/.Xmodmap
     ```
 
 1.  Use xev to see what keycode Caps Lock belongs to (Spoilers: It's 66 or 0x42).
 1.  Edit the Xmodmap config to remap the Caps Lock Key by editing the following lines:
 
-    ```Shell
+    ```bash
 clear lock
 ... A bunch of other keycodes ...
 keycode  66 = Escape
@@ -34,7 +34,7 @@ keycode  66 = Escape
 
 1.  Reload the keymap
 
-    ```Shell
+    ```bash
 xmodmap ~/.Xmodmap
     ```
 
