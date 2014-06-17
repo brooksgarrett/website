@@ -4,7 +4,7 @@ markdown: redcarpet
 name: BrooksGarrett
 paginate: 5
 permalink: /blog/:title/
-pygments: false
+highlighter: null
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
 # Content Resources
@@ -15,4 +15,4 @@ navigation:
   url: /speaking/
 - text: WishList
   url: /wishlist.html
-exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile']
+exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile','s3_website.yml']
