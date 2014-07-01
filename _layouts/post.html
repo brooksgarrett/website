@@ -6,7 +6,7 @@ paginate: false
     <hr />
 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date_to_long_string }}</p>
     <hr>
-<p><span class="glyphicon glyphicon-tag"></span> Tagged with: {% for tag in page.tags %}{{tag}} {% endfor %} </p>
+<p><span class="glyphicon glyphicon-tag"></span> Tagged with: {% for cat in page.categories %}{{cat}} {% endfor %} </p>
     <hr>
 
 
