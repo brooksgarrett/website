@@ -15,4 +15,5 @@ navigation:
   url: /speaking/
 - text: WishList
   url: /wishlist.html
-
+- text: Birdy
+  url: /birdy.html
