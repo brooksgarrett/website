@@ -6,6 +6,7 @@ branches:
   - master
 deploy:
   provider: s3
+  skip_cleanup: true
   access_key_id:
     secure: f9868I9zwwKEIYxSPKGZLsFkaIf7s8asEparimygAQHIB4yWHFMu6CUxRWPlrmrd+pkt4hbzS4c6CVCbD5WV/tQg5ORCBd4KKEYyKliBMbOh8P5ceCUCcA3zGZ/Wjua8guLrOoR43nbas2RwiMvIlBWX1pcafPV3b3iXfNrH8nA=
   secret_access_key:
