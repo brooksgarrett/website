@@ -17,6 +17,6 @@ task :deploy => [ :clean, :build ] do
 end
 
 desc "Default task is to clean and build"
-task :default => [ :clean, :build ]
+task :default => [ :clean, :build ] do
   puts "Task complete"
 end
