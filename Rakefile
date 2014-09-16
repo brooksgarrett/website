@@ -15,3 +15,8 @@ desc "rebuild, then deploy to remote"
 task :deploy => [ :clean, :build ] do
   sh "bundle exec s3_website push"
 end
+
+desc "Default task is to clean and build"
+task :default => [ :clean, :build ]
+  puts "Task complete"
+end
