@@ -36,7 +36,6 @@ Obviously having your S3 credentials in a text file in your repository is silly.
 travis encrypt --add deploy.secret_access_key
 ```
 
-
 ```gemfile
 # A sample Gemfile
 source "https://rubygems.org"
@@ -45,6 +44,34 @@ gem 'jekyll', '>=1.4.2'
 gem 'nokogiri'
 gem 's3_website'
 gem 'therubyracer'
+gem 'rake'
 ```
-My Gemfile notes that we need Jekyll and all it's required dependencies.
 
+My Gemfile notes that we need Jekyll and all it's required dependencies. You also must have rake listed for Travis to work.
+
+```yaml
+desc "clean"
+task :clean do
+  rm_rf '_site'
+  FileList['**/*.bak'].clear_exclude.each do |f|
+    rm_f f
+  end
+end
+
+desc "build the site"
+task :build do
+  sh "bundle exec jekyll build"
+end
+
+desc "rebuild, then deploy to remote"
+task :deploy => [ :clean, :build ] do
+  sh "bundle exec s3_website push"
+end
+
+desc "Default task is to clean and build"
+task :default => [ :clean, :build ]
+  puts "Task complete"
+end
+```
+
+My Rakefile contains tasks for cleaning up old artifacts, building the site, and deploying the site via s3_website for local testing. Travis calls the :default task by, well, default so I have configured that task to be only a clean and build. This lets Travis handle the deploy independently.
