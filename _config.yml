@@ -1,12 +1,14 @@
 destination: _site/
 disqus_shortname: brooksgarrett
 markdown: redcarpet
-name: BrooksGarrett
+name: Brooks Garrett
+description: 'The blog of Brooks'
 paginate: 5
 permalink: /blog/:title/
 highlighter: null
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
+
 # Content Resources
 navigation:
 - text: About
