@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Static Site with [Jekyll][jekyll], GitHub, TravisCI, and S3
+title: Static Site with Jekyll, GitHub, TravisCI, and S3
 categories: [Blog]
 tags: [sysadmin]
 status: published
@@ -13,7 +13,7 @@ meta:
 
 For a while now I've been exclusively using [Jekyll][jekyll] to publish my site. At first I started with basic [Jekyll][jekyll] running on [DigitalOcean][do]. This worked well but meant I needed to SSH to a server when I wanted to post content. Not _really_ the best requirement for a seamless workflow but it worked for a while. Then I started using Git and GitHub to manage the content as a repository. A bit of php later and I had a post-commit hook in GitHub to notify the [DigitalOcean][do] server that new content was ready. This was better but broke all the time for random reasons. 
 
-Next I decided to just kill the [DigitalOcean][do] server completely and use s3_website to push content up to an S3 bucket hosted site. Yet another improvement but still not completely there. 
+Next I decided to just kill the [DigitalOcean][do] server completely and use s3\_website to push content up to an S3 bucket hosted site. Yet another improvement but still not completely there. 
 
 Finally I think I'm close. Currently I write comment in markdown (so I can focus on content, not format) which is parsed and published by [Jekyll][jekyll]. The content is versioned and managed by Git, hosted on GitHub (feel free to PR spelling and grammar issues), and finally published by [Travis-CI][travis] to S3. Now my workflow essentially consists of 
 
@@ -45,7 +45,7 @@ deploy:
   local-dir: _site
 ```
 
-The above YAML specified we are building a ruby project aimed at Ruby version 2.1.1. We will only build and deploy the master branch and then only the _site (default output directory for [Jekyll][jekyll]) will be uploaded to my S3 bucket. The endpoint directive is important for Travis to successfully deploy against an S3 website. It is critical you have the no_cleanup line or the S3 deploy will fail.
+The above YAML specified we are building a ruby project aimed at Ruby version 2.1.1. We will only build and deploy the master branch and then only the \_site (default output directory for [Jekyll][jekyll]) will be uploaded to my S3 bucket. The endpoint directive is important for Travis to successfully deploy against an S3 website. It is critical you have the no\_cleanup line or the S3 deploy will fail.
 
 Obviously having your S3 credentials in a text file in your repository is silly. Travis provides a command line client as a ruby gem (gem install travis). Once installed you can encrypt sections of your .travis.yml file with:
 
