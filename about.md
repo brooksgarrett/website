@@ -38,8 +38,3 @@ Currently I work for these guys and more specifically Fortify on Demand. This ha
 # I Play Some Awesome Sports
 Rugby is by far the greatest sport on the planet *(citation needed...)* I started in college by playing with the [Columbus-Ft. Benning Cruisers](http://columbus-benningrugby.com) and spent an awesome season at Flank. Moving on I spent a year at wing with [Southern Rugby](http://southernrugby.webs.com/) before graduating and moving back to the Cruisers. Back with the Cruisers I spent 2 years at Hook and eventually served as the Match Sec. Now you can find me Tuesday and Thursday at practice working with the [Jax Rugby](http://jaxrugby.org/) club.
 
-# I'm Easy to Find Online
-<iframe src="http://githubbadge.appspot.com/badge/brooksgarrett?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder=0></iframe>
-
-<a href="http://steamprofile.com/" target="_blank"><img src="http://badges.steamprofile.com/profile/default/steam/76561198009534693.png" border="0" alt="Steamprofile badge by Steamprofile.com"></a>
-
