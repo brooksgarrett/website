@@ -6,6 +6,15 @@ title: Speaking
 
 #  2014
 
+## Professional Incident Response
+
+This presentation was first presented at HouSecCon 5.0 on Thursday 16 October 2014.
+
+>  You built it; they broke it; now what? In this talk learn how to advance your incident response plan beyond a policy document and into a scalable framework that enables your team to respond, track, and report on incidents of every size by leveraging what professional responders do every single day.
+
+  - [Slide Deck Download](http://data.brooksgarrett.com/collateral/decks/Professional Incident Response.pptx)
+
+
 ## Dynamically controllable dynamic scanning
 
 This presentation was first presented at HP Protect 2014 on Wednesday 10 September 2014. This talk was a collaborative presentation with 4 speakers:
