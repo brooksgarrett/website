@@ -11,7 +11,7 @@ meta:
 
 ---
 
-I'm working on a new movile application which, of course, means [Cordova](). Recently Cordova added the "browser" platform so you can test your application right on the desktop with no hackery required.
+I'm working on a new movile application which, of course, means [Cordova](http://cordova.apache.org/). Recently Cordova added the "browser" platform so you can test your application right on the desktop with no hackery required.
 
 Getting the platform added to your project and run it as a browser app is as simple as:
 
