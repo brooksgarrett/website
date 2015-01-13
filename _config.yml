@@ -18,7 +18,7 @@ navigation:
 - text: WishList
   url: /wishlist.html
 - text: Discovered
-  url: /discovered/index.html
-- text: Birdy
-  url: /birdy.html
+  url: /discovered/
+- text: Projects
+  url: /projects/
 exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile','s3_website.yml']
