@@ -5,9 +5,8 @@ paginate: false
 <h1>{{ page.title }}</h1>
     <hr />
 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date_to_long_string }}</p>
-    <hr>
 <p><span class="glyphicon glyphicon-tag"></span> Tagged with: {% for cat in page.categories %}{{cat}} {% endfor %} </p>
-    <hr>
+    <hr />
 
 
 <div class="post">
