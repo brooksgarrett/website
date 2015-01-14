@@ -9,6 +9,10 @@ highlighter: pygments
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
 
+# Redcarpet renderer
+redcarpet:
+  extensions: ["strikethrough"]
+
 # Content Resources
 navigation:
 - text: Blog
