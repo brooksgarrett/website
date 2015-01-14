@@ -5,7 +5,7 @@ name: Brooks Garrett
 description: 'The blog of Brooks'
 paginate: 5
 permalink: /blog/:title/
-highlighter: null
+highlighter: pygments
 timezone: America/New_York
 url: 'http://brooksgarrett.com/'
 
@@ -21,4 +21,7 @@ navigation:
   url: /discovered/
 - text: Projects
   url: /projects/
-exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile','s3_website.yml']
+exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile','s3_website.yml','.sass-cache']
+
+sass:
+  style: :compressed
