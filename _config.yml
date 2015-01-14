@@ -11,6 +11,8 @@ url: 'http://brooksgarrett.com/'
 
 # Content Resources
 navigation:
+- text: Blog
+  url: /
 - text: About
   url: /about.html
 - text: Speaking
