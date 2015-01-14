@@ -29,3 +29,5 @@ I, however, am on Linux and when I first tried to run on the browser platform I 
 ```
 
 Make sure to modify the path to Chrome if needed.
+
+_UPDATE_: I've since discovered you can pull an updated script from [Cordova's GitHub](https://github.com/apache/cordova-browser/blob/master/bin/templates/project/cordova/run).
