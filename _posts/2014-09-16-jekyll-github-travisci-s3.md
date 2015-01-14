@@ -54,7 +54,7 @@ travis encrypt --add deploy.secret_access_key
 ```
 Next you need a clean Gemfile. The more bloated the Gemfile is the slower your deploy will be (as [Travis-CI][travis] downloads and configures all the Gems.) As is I'm able to deploy in around 1-2 minutes which isn't terrible.
 
-```gemfile
+```ruby
 # A sample Gemfile
 source "https://rubygems.org"
 
