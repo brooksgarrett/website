@@ -9,5 +9,8 @@
 // import bootstrap
 @import "bootstrap";
 @import "bootswatch";
+
+// Syntax highlighting
+@import "syntax";
 // define a colour based on a bootstrap colour
 $my-gray: $gray;
