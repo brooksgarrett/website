@@ -3,6 +3,8 @@ title: BrooksGarrett
 layout: index
 ---
 {% for post in paginator.posts %}
+{% if post.categories contains 'discovered' %}
+    {% else if %}
 <div class="row-fluid">
   <div class="span12">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -17,4 +19,5 @@ layout: index
     </p>
   </div>
 </div>
+{% endif %}
 {% endfor %}
