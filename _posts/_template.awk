@@ -66,3 +66,7 @@ BEGIN {
 /.*/{
     print > slug;
     }
+
+END{
+    print slug;
+    }

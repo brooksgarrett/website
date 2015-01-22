@@ -7,6 +7,6 @@ read tags
 
 
 
-awk -f _template.awk -v title="$title" -v tags="$tags" -v date="$date" _template.md
+vi `awk -f _template.awk -v title="$title" -v tags="$tags" -v date="$date" _template.md`
 
 # cp _template.md $date-$title.md
