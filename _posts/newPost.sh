@@ -1,4 +1,12 @@
-export date=`date +%Y-%m-%d`
-export title=$*
+date=`date +%Y-%m-%d`
 
-cp _template.md $date-$title.md
+echo -n "Long title:"
+read title
+echo -n "Tags:"
+read tags
+
+
+
+awk -f _template.awk -v title="$title" -v tags="$tags" -v date="$date" _template.md
+
+# cp _template.md $date-$title.md
