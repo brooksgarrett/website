@@ -23,7 +23,7 @@ The problem starts when you use putty. Those nice clean icons turn into really s
 
 First, change the translation setting to UTF-8. This is found under the Window->Behavior section. By default it is ISO-8859-1:1998 (Latin-1, West Europe) on my machine. This one setting will help but the glyphs were still odd looking. The arrow was partially filled and the 'x' was grainy.
 
-I found an [issue submission](https://github.com/robbyrussell/oh-my-zsh/issues/1310) detailing a font that helps make the console more asthetically pleasing. You can download and install it by visiting https://github.com/andreberg/Meslo-Font/downloads. 
+I found an [issue submission](https://github.com/robbyrussell/oh-my-zsh/issues/1310) detailing a font that helps make the console more asthetically pleasing. You can download and install it by visiting  [andreberg's GitHub](https://github.com/andreberg/Meslo-Font/downloads). 
 
 Once you install the font on your system you'll need to update your saved settings by changing the font under Window->Appearance.
 
