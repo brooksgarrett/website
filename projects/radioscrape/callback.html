@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Brooks Garrett: OAUTH2 Callback</title>
+<script type="text/javascript">
+function getURLParameter(name) {
+  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+}
+</script>
+</head>
+<body>
+<p>This is a test page.</p>
+<p><script>echo getURLParameter('code');</script></p>
+</body>
+</html>
