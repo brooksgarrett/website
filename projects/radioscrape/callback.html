@@ -8,7 +8,9 @@ function getURLParameter(name) {
 </script>
 </head>
 <body>
-<p>This is a test page.</p>
-<p><script>echo getURLParameter('code');</script></p>
+<p>Your authorization_code is:</p>
+<p><script>
+document.write(getURLParameter('code'));
+</script></p>
 </body>
 </html>
