@@ -35,9 +35,13 @@ In order of "OMGDOWANT"-ness.
 
 ### Lowest Price ($0 - $50)
 +  ~~[Waterproof Speaker for the Shower - Amazon](http://www.amazon.com/gp/product/B00E4OFYKY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E4OFYKY&linkCode=as2&tag=brooksgarrett-20)~~
++  [Adult Bag Valve Mask - Disposable](http://www.galls.com/allied-healthcare-products-disposable-bvm-with-handle)
++  [Pediatric Bag Valve Mask - Disposale](http://www.galls.com/allied-healthcare-products-disposable-pediatric-bvm-with-handle)
 
 ### Medium Price ($50 - $100)
 +  ~~[GBS 100% Badger Shaving Brush - Amazon](http://www.amazon.com/gp/product/B008N4GQP8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008N4GQP8&linkCode=as2&tag=brooksgarrett-20)~~
++  [Dyna Med Maxi-Medic Bag](http://www.galls.com/dyna-med-maxi-medic-bag-with-waterproof-bottom)
+
 
 ### High Price ($100+)
-+  Nothing to see here.
++  [First Responder Supplies](http://www.galls.com/dyna-med-bls-refill-kit-supplies-only)
