@@ -1,16 +1,8 @@
-<html>
-<head>
-<title>Brooks Garrett: OAUTH2 Callback</title>
 <script type="text/javascript">
 function getURLParameter(name) {
   return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
 }
 </script>
-</head>
-<body>
-<p>Your authorization_code is:</p>
-<p><script>
+<script>
 document.write(getURLParameter('code'));
-</script></p>
-</body>
-</html>
+</script>
