@@ -5,8 +5,8 @@ test: null
 
 ---
 
-# I'm Brooks
-I'm currently based out of sunny Jacksonville, FL and have a wonderful family. I'm infatuated with technology and can't wait to get my hands on the newest tools, techniques, and shiny objects so I can tear them apart and make cool things. That sounds really awesome but speaking thruthfully it really means I stare at a linux console. A LOT.
+# I'm Brooks Garrett
+I'm currently based out of Valdosta, GA and have a wonderful family. I'm infatuated with technology and can't wait to get my hands on the newest tools, techniques, and shiny objects so I can tear them apart and make cool things. That sounds really awesome but speaking thruthfully it really means I stare at a linux console. A LOT.
 
 # I Went to College
 Back around the turn of the century I found myself a bit aimless. Graduating from high school I knew I wanted to do something with computers. I thought about Georgia Tech but decided it wasn't really a fit for me (nor I for it.) Then I discovered Georgia Southern University in *BEAUTIFUL* Statesboro, GA beside the magic Eagle Creek. Southern gave me a chance to explore a tremendous breadth of computer science from programming, to IT management, to my eventual career in Information Security.
