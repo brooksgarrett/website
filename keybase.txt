@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/brooksgarrett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brooksgarrett.com
+  * I am brooksgarrett (https://keybase.io/brooksgarrett) on keybase.
+  * I have a public key with fingerprint B361 0C94 96DB A3EF B82D  FB8D 7D03 5804 5781 3A91
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "b3610c9496dba3efb82dfb8d7d03580457813a91",
+            "host": "keybase.io",
+            "key_id": "7D03580457813A91",
+            "uid": "a7d07757443f2b5c59a0d817f8b4e200",
+            "username": "brooksgarrett"
+        },
+        "merkle_root": {
+            "ctime": 1429199204,
+            "hash": "d0a7516b20a1fb03409dfc8fa89ed95af0c304e63d9408e7f65049dbb8afa71a8ab9257a399fadb19771f48c17e490c2724273fb25f4361db98cd83ff4b5a664",
+            "seqno": 203846
+        },
+        "service": {
+            "hostname": "brooksgarrett.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429199261,
+    "expire_in": 157680000,
+    "prev": "e7a6d0362704aefbd03efeabb4b234978d283de71157792a8bfba12453753380",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUl1sFUUUvrelpkAtNMbwmwgbgsmluZ2/3Zm50BIUJRogihISH7yZ2Zlp1/be
+vexuawspFMQo/l5tlAdEWgNBoBqpDwK+oASV4JOGBxIb0yjKT9AoGBMD6mxTAxLm
+YTIz5/u+Od85p3p3baYmOzivCczd8+KR7JmLMrO+5dyezY4MVZ9T2Oz4XYEuJ+mp
+LEraKTiduk+KWOeDcEE5VDr/TLxgEtPs9OgoDsKyRYE8zVOnvzmFp2QTlNt1VImC
+VMuR2IPA54R7SgqsjWRI2U1RBbDLAHEpg1hwaCU7wjj536/OhGYxUPaVrrwFv2IC
+3z0REFaJUpcSgg2Sru9yARSD1DBJNAIgBcY6mrQkozDsjNtFFOkkSZMu6aizSxft
+84RzPwlSHCSIQ84RIDYtEXdYpgKCutCTCAhoJMAEcGV8ZgTjWnFXGOBjQLSHFSeA
+aWo8FxCupGTCCAoFE5IjlwrMuRFKQk4pNIT5kGrCgY8oIohiI5FriK2Zkpz5imFj
+iHSF5xHrI9Yby6FTQAAz4vWn96gn8HWad1q7O1nM+2HJMitRmIR+2GXDHUlSiQup
+9WNJXyUlPKtlcVKqKIOysv27tcHQQm8riwebHd1bCSJdDFKESz0G7Eo/0j1WUlPh
+2QZ7iAIibNPtWRstpCQSYcIpU4hhpSm0VMqRYNJIARFxMXUxZuCmWYianUS0W804
+aC+LpDvSTv/O7PwpmWxN5q66mnSEM9Omzvxvrp8YqM+MDs2pW/HG8FdPnz1c8/H0
+H8dHr9SOD8xva1yda/1+3m+FzCtPVnPK/+u+n6qjA71w6RapL/w5cngX/mjdot5Z
+C/d/cWDfko2DS0h1x7LHF63ctDd3/PKaMdaaO/1yn+ge+xCuxQ+9t2zKnJcWzgD3
+Ni0unSq6J69SM/O7E0dHd1V/GPznfNfP6waaxo4N8dcaxo/Xrc2Fs17w31x9sG3D
+ow+w+tYZJ7Y//+mpVZ8PL8+dHPl26LFq/e532tRzWx9p2Pt1qeH0wxeufXZk/eKp
+0973+C9PtRy6MXxPducnLT3b32rc98c3r88+98GZVS07Xh1v+/v60m0ja4Kzurb0
+9ob7L10++vsYfffXL6882Pgv
+=X6Gy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brooksgarrett
+
+==================================================================
