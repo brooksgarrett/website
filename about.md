@@ -8,10 +8,17 @@ test: null
 # I'm Brooks Garrett
 I'm currently based out of Valdosta, GA and have a wonderful family. I'm infatuated with technology and can't wait to get my hands on the newest tools, techniques, and shiny objects so I can tear them apart and make cool things. That sounds really awesome but speaking thruthfully it really means I stare at a linux console. A LOT.
 
+# I Fight Fires
+No, seriously. Like pyrolysis. I spent 3 years as a volunteer firefighter in Bulloch county, Georgia while attending school. While there I earned my Firefighter I National Professional Qualification. After taking a hiatus due to living in non-volunteer areas I'm back in Lowndes county and volunteering again. I recently obtained by National Registry of Emergency Medical Techinicians Emergency Medical Responder certification.
+
+I have a strong conviction that we all should give back to our communities. Some give money and others give time. If you love adrenaline, have a strong desire to serve your community, and enjoy helping others then look around to see if you have a volunteer department nearby. Volunteers still serve in over 70% of our communities today and desperately need new members to keep the service alive.
+
 # I Went to College
-Back around the turn of the century I found myself a bit aimless. Graduating from high school I knew I wanted to do something with computers. I thought about Georgia Tech but decided it wasn't really a fit for me (nor I for it.) Then I discovered Georgia Southern University in *BEAUTIFUL* Statesboro, GA beside the magic Eagle Creek. Southern gave me a chance to explore a tremendous breadth of computer science from programming, to IT management, to my eventual career in Information Security.
+I attended Georgia Southern University in *BEAUTIFUL* Statesboro, GA beside the magic Eagle Creek. Southern gave me a chance to explore a tremendous breadth of computer science from programming, to IT management, to my eventual career in Information Security.
 
 I'm proud to be a Southern Eagle Alumnus with a B.B.A. in Information Systems, Information Security Emphasis.
+
+If you aren't familiar with Georgia Southern just ask University of Florida fans.
 
 {% image true_blue.png %}
   title: True Blue
@@ -36,5 +43,7 @@ I spent a couple of years with this guy at my first real job out of college. Wor
 Currently I work for these guys and more specifically Fortify on Demand. This has been an awesome experience thus far providing me the opportunity to grow, mature, and learn in a rapidly changing industry. If Application Security interests you then we should chat.
 
 # I Play Some Awesome Sports
-Rugby is by far the greatest sport on the planet *(citation needed...)* I started in college by playing with the [Columbus-Ft. Benning Cruisers](http://columbus-benningrugby.com) and spent an awesome season at Flank. Moving on I spent a year at wing with [Southern Rugby](http://southernrugby.webs.com/) before graduating and moving back to the Cruisers. Back with the Cruisers I spent 2 years at Hook and eventually served as the Match Sec. Now you can find me Tuesday and Thursday at practice working with the [Jax Rugby](http://jaxrugby.org/) club.
+Rugby is by far the greatest sport on the planet *(citation needed...)* I started in college by playing with the [Columbus-Ft. Benning Cruisers](http://columbus-benningrugby.com) and spent an awesome season at Flank. Moving on I spent a year at wing with [Southern Rugby](http://southernrugby.webs.com/) before graduating and moving back to the Cruisers. Back with the Cruisers I spent 2 years at Hook and eventually served as the Match Sec. Most recently I spent a season working with the [Jax Rugby](http://jaxrugby.org/) club.
+
+I'm currently in retirement.
 
