@@ -13,6 +13,14 @@ No, seriously. Like pyrolysis. I spent 3 years as a volunteer firefighter in Bul
 
 I have a strong conviction that we all should give back to our communities. Some give money and others give time. If you love adrenaline, have a strong desire to serve your community, and enjoy helping others then look around to see if you have a volunteer department nearby. Volunteers still serve in over 70% of our communities today and desperately need new members to keep the service alive.
 
+# I'm Certified
+I hold the following certifications:
+
++  [Firefighter I NPQ](http://www.nfpa.org/codes-and-standards/document-information-pages?mode=code&code=1001)
++  [NREMT Emergency Medical Responder](https://www.nremt.org/nremt/about/checkEMTStatus.asp?reg_num=R1010042)
++  [CISSP](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=Brooks&LN=Garrett&CN=381309)
+
+
 # I Went to College
 I attended Georgia Southern University in *BEAUTIFUL* Statesboro, GA beside the magic Eagle Creek. Southern gave me a chance to explore a tremendous breadth of computer science from programming, to IT management, to my eventual career in Information Security.
 
