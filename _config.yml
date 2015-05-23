@@ -2,7 +2,7 @@ destination: _site/
 disqus_shortname: brooksgarrett
 markdown: redcarpet
 name: Brooks Garrett
-description: 'The blog of Brooks'
+description: 'The blog of Brooks Garrett'
 paginate: 5
 permalink: /blog/:title/
 highlighter: pygments
