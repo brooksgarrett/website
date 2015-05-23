@@ -19,6 +19,7 @@ I hold the following certifications:
 +  [Firefighter I NPQ](http://www.nfpa.org/codes-and-standards/document-information-pages?mode=code&code=1001)
 +  [NREMT Emergency Medical Responder](https://www.nremt.org/nremt/about/checkEMTStatus.asp?reg_num=R1010042)
 +  [CISSP](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=Brooks&LN=Garrett&CN=381309)
++  [GIAC GCIA](http://www.giac.org/certified-professional/brooks-garrett/145712)
 
 
 # I Went to College
