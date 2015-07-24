@@ -20,6 +20,7 @@ I hold the following certifications:
 +  [NREMT Emergency Medical Responder](https://www.nremt.org/nremt/about/checkEMTStatus.asp?reg_num=R1010042)
 +  [CISSP](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=Brooks&LN=Garrett&CN=381309)
 +  [GIAC GCIA](http://www.giac.org/certified-professional/brooks-garrett/145712)
++  [CSSLP](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=Brooks&LN=Garrett&CN=381309)
 
 
 # I Went to College
@@ -55,4 +56,10 @@ Currently I work for these guys and more specifically Fortify on Demand. This ha
 Rugby is by far the greatest sport on the planet *(citation needed...)* I started in college by playing with the [Columbus-Ft. Benning Cruisers](http://columbus-benningrugby.com) and spent an awesome season at Flank. Moving on I spent a year at wing with [Southern Rugby](http://southernrugby.webs.com/) before graduating and moving back to the Cruisers. Back with the Cruisers I spent 2 years at Hook and eventually served as the Match Sec. Most recently I spent a season working with the [Jax Rugby](http://jaxrugby.org/) club.
 
 I'm currently in retirement.
+
+# My Domains
+
+[Brooks Garrett](https://brooksgarrett.com/)
+[Halligan Security](http://www.halligansecurity.com/)
+[RuckLife](http://www.rucklife.com/)
 
