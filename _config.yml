@@ -25,8 +25,8 @@ navigation:
   url: /wishlist.html
 - text: Discovered
   url: /discovered/
-- text: Projects
-  url: /projects/
+- text: Learning
+  url: /learning/
 exclude: ['Gemfile','Gemfile.lock','README.md','Rakefile','s3_website.yml','.sass-cache']
 
 sass:

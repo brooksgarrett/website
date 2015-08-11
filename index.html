@@ -9,8 +9,7 @@ layout: index
   </div>
 </div>
 {% for post in paginator.posts %}
-{% if post.categories contains 'discovered' %}
-    {% else if %}
+{% if post.categories contains 'blog' %}
 <div class="row-fluid">
   <div class="span12">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>

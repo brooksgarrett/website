@@ -1,0 +1,56 @@
+tags:
+  ctf:
+    name: "CTF"
+    description: "Capture the Flag challenges"
+    id: "ctf"
+  lecture:
+    name: "Lecture Style"
+    description: "Longer college style courses"  
+    id: "lecture"
+  mobile:
+    name: "Mobile Security"
+    description: "Training related to testing mobile devices and applications"
+    id: "mobile"
+  cs:
+    name: "Computer Science"
+    description: "Courses related to programming and CS"
+    id: "cs"
+  network:
+    name: "Network"
+    description: "Courses related to networking and packet analysis"
+    id: "network"
+resources:
+  forensicscontest:
+    name: "Network Forensics Contest"
+    link: "http://forensicscontest.com/puzzles"
+    description: "Network forensics based puzzles to sharpen your packet analysis."
+    tags:
+      - ctf
+      - network
+  violentpython:
+    name: "Violent Python by Sam Bowne"
+    link: "https://samsclass.info/124/ViolentPython.shtml"
+    description: "Great intro to the defacto hacker language, Python."
+    tags:
+      - lecture
+  violentpython:
+    name: "Violent Python by Sam Bowne"
+    link: "https://samsclass.info/124/ViolentPython.shtml"
+    description: "Great intro to the defacto hacker language, Python."
+    tags:
+      - lecture
+  csforall:
+    name: "CS for All by HMC"
+    link: "http://www.cs.hmc.edu/csforall/"
+    description: "A lecture based introduction to Computer Science for all disciplines (not just IT)."
+    tags:
+      - lecture
+      - cs
+  mobileaudit:
+    name: "Security Auditing Mobile Apps by Sam Bowne"
+    link: "https://samsclass.info/128/128_BSidesLV-Defcon-2015.shtml"
+    description: "Introduction to performing security assesments of mobile applications."
+    tags:
+      - lecture
+      - mobile
+
