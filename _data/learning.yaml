@@ -53,4 +53,11 @@ resources:
     tags:
       - lecture
       - mobile
+  udemyjava:
+    name: "Java Tutorial for Complete Beginners"
+    link: "https://www.udemy.com/java-tutorial/"
+    description: "An intro course to Java by udemy. udemy is a company specializing in selling training so other offerings will likely not be free."
+    tags:
+      - lecture
+      - cs
 
