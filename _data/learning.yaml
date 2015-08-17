@@ -60,4 +60,11 @@ resources:
     tags:
       - lecture
       - cs
+  int-python:
+    name: "Intermediate Python"
+    link: "http://book.pythontips.com/en/latest/"
+    description: "OPen source and book taking your basic Python knowledge to the next level."
+    tags:
+      - cs
+
 
