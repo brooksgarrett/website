@@ -2,6 +2,11 @@
 layout: post
 title: "Thoughts on Community"
 date: "2015-09-10 14:03"
+categories: [Blog]
+tags: [community,social]
+status: published
+type: article
+published: true
 ---
 
 Another day dawns in the world of Information Security and along with it new controversy and drama. If you haven't been watching
