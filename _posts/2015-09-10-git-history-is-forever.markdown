@@ -2,6 +2,11 @@
 layout: post
 title: "Git History is Forever"
 date: "2015-09-10 15:09"
+categories: [Blog]
+tags: [infosec,devlopment]
+status: published
+type: article
+published: true
 ---
 
 There are lots of stories about people accidentally leaking credentials or other sensitive
