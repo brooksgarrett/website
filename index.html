@@ -17,11 +17,13 @@ layout: index
     <p><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date | date_to_long_string }}</p>
     <p><span class="glyphicon glyphicon-tag"></span> Tagged with: {% for tag in post.tags %}{{tag}} {% endfor %} </p>
 	<hr>
+	<div class="post">
     <p>{{ post.content }}</p>
     <p>
       <span class="glyphicon glyphicon-comment"></span>
       <a href="{{ post.url }}#disqus_thread">View Comments</a>
     </p>
+    </div>
   </div>
 </div>
 {% endif %}
