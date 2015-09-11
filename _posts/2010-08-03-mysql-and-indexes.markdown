@@ -12,6 +12,7 @@ meta:
   _wp_old_slug: ''
 ---
 So what happens when you have over 1 million rows in a table and you try to do a lookup?
+
 ```mysql
 mysql> describe file;
 +-------------+----------------------+------+-----+---------+-------+
@@ -46,6 +47,7 @@ mysql> select hex(sha1), filename, productcode, oscode from file where sha1 = un
 +------------------------------------------+-------------+-------------+---------+
 8 rows in set (1 min 47.92 sec)
 ```
+
 LOOK AT THAT RUNTIME! Add indexes stupid.
 
 ```mysql
