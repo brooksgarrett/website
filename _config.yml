@@ -7,7 +7,7 @@ paginate: 5
 permalink: /blog/:title/
 highlighter: pygments
 timezone: America/New_York
-url: 'http://brooksgarrett.com/'
+url: 'http://brooksgarrett.com'
 
 # Redcarpet renderer
 redcarpet:
