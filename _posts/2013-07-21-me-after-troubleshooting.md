@@ -3,7 +3,7 @@ layout: post
 title: When I Spend 4 hours on a problem...
 categories:
 - Blog
-tags: []
+tags: [humor]
 status: publish
 type: post
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: Nearly 150 Free Books
 categories:
 - Blog
-tags: []
+tags: [training]
 status: publish
 type: post
 published: true

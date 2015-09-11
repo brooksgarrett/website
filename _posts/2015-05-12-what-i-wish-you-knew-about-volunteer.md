@@ -2,7 +2,7 @@
 layout: post
 title: What I Wish You Knew About Volunteer Firefighters
 categories: [Blog]
-tags: [firefighting, misc]
+tags: [firefighting, thoughts]
 status: published
 type: article
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: My Experience with Chef, Redux
 categories:
 - Blog
-tags: []
+tags: [sysadmin]
 status: publish
 type: post
 published: true
@@ -17,7 +17,7 @@ meta:
 ### Installing Gems
 If you use the omnibus installer (from the opscode site as opposed to apt/yum) you can't just use Gem to install things. There seems to be a disconnect between the ruby runtime the knife command uses and the gems repository your system normally uses. Instead, you need to use the embedded gem command as follows (this example demonstrates installing the knife-ec2 gem):
 
-> sudo /opt/chef/embedded/bin/gem install knife-ec2 
+> sudo /opt/chef/embedded/bin/gem install knife-ec2
 
 ### Getting knife.rb Right
 Here is my knife.rb for Amazon AWS:
@@ -42,4 +42,3 @@ knife[:region]                = 'us-east-1'
 knife[:aws_access_key_id]     = 'REDACTED'
 knife[:aws_secret_access_key] = 'REDACTED'
 ```
-
