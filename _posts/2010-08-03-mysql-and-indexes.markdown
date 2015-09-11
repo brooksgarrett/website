@@ -12,8 +12,8 @@ meta:
   _wp_old_slug: ''
 ---
 So what happens when you have over 1 million rows in a table and you try to do a lookup?
-
-mysql&gt; describe file;
+```mysql
+mysql> describe file;
 +-------------+----------------------+------+-----+---------+-------+
 | Field       | Type                 | Null | Key | Default | Extra |
 +-------------+----------------------+------+-----+---------+-------+
@@ -28,10 +28,10 @@ mysql&gt; describe file;
 +-------------+----------------------+------+-----+---------+-------+
 8 rows in set (0.00 sec)
 
-mysql&gt; select hex(sha1), filename, productcode, oscode from file
--&gt; where sha1 = dehex('C00002DED6E03A93513D4EA144486B2E33A3AC83');
+mysql> select hex(sha1), filename, productcode, oscode from file
+-> where sha1 = dehex('C00002DED6E03A93513D4EA144486B2E33A3AC83');
 ERROR 1305 (42000): FUNCTION nsrl.dehex does not exist
-mysql&gt; select hex(sha1), filename, productcode, oscode from file where sha1 = un                                                                             hex('C00002DED6E03A93513D4EA144486B2E33A3AC83');
+mysql> select hex(sha1), filename, productcode, oscode from file where sha1 = un                                                                             hex('C00002DED6E03A93513D4EA144486B2E33A3AC83');
 +------------------------------------------+-------------+-------------+---------+
 | hex(sha1)                                | filename    | productcode | oscode  |
 +------------------------------------------+-------------+-------------+---------+
@@ -45,24 +45,27 @@ mysql&gt; select hex(sha1), filename, productcode, oscode from file where sha1 =
 | C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        5604 | Unix3.5 |
 +------------------------------------------+-------------+-------------+---------+
 8 rows in set (1 min 47.92 sec)
-
+```
 LOOK AT THAT RUNTIME! Add indexes stupid.
 
-mysql&gt; alter table file add index (sha1), add index (md5);
+```mysql
+mysql> alter table file add index (sha1), add index (md5);
 
-mysql&gt; alter table file add index (sha1), add index (md5);
-<div id="_mcePaste">mysql&gt; select hex(sha1), filename, productcode, oscode from file where sha1 = unhex('C00002DED6E03A93513D4EA144486B2E33A3AC83');</div>
-<div id="_mcePaste">+------------------------------------------+-------------+-------------+---------+</div>
-<div id="_mcePaste">| hex(sha1)                                | filename    | productcode | oscode  |</div>
-<div id="_mcePaste">+------------------------------------------+-------------+-------------+---------+</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        2584 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |       15322 | 358     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        2912 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        3164 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        3192 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        4925 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        4943 | WIN     |</div>
-<div id="_mcePaste">| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        5604 | Unix3.5 |</div>
-<div id="_mcePaste">+------------------------------------------+-------------+-------------+---------+</div>
-<div id="_mcePaste">8 rows in set (0.00 sec)</div>
+mysql> alter table file add index (sha1), add index (md5);
+mysql> select hex(sha1), filename, productcode, oscode from file where sha1 = unhex('C00002DED6E03A93513D4EA144486B2E33A3AC83');
++------------------------------------------+-------------+-------------+---------+
+| hex(sha1)                                | filename    | productcode | oscode  |
++------------------------------------------+-------------+-------------+---------+
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        2584 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |       15322 | 358     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        2912 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        3164 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        3192 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        4925 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        4943 | WIN     |
+| C00002DED6E03A93513D4EA144486B2E33A3AC83 | hticons.dll |        5604 | Unix3.5 |
++------------------------------------------+-------------+-------------+---------+
+8 rows in set (0.00 sec)
+```
+
 Indexing. It works ;-)
