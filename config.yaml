@@ -1,0 +1,9 @@
+---
+baseurl: "https://brooksgarrett.com/"
+languageCode: "en-us"
+title: "Brooks Garrett"
+MetaDataFormat: "yaml"
+params:
+  twitter: "brooksgarrett"
+  description: "The website of Brooks Garrett."
+---

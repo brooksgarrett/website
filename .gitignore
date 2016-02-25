@@ -1,6 +1,1 @@
-_site/
-s3_website.yml
-*.lock
-.bundle
-*~
-.sass-cache
+public
