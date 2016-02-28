@@ -1,5 +1,5 @@
 install: ./bin/linux-install.sh
-script: hugo
+script: ./bin/hugo
 deploy:
   provider: s3
   skip_cleanup: true
