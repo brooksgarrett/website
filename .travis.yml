@@ -1,4 +1,5 @@
 install: ./bin/linux-install.sh
+script: hugo
 deploy:
   provider: s3
   skip_cleanup: true
@@ -9,4 +10,4 @@ deploy:
   bucket: brooksgarrett.com
   region: us-east-1
   endpoint: www.brooksgarrett.com.s3-website-us-east-1.amazonaws.com
-  local-dir: pubilc
+  local-dir: public
