@@ -14,6 +14,7 @@ Today I threw together a simple solution for managing images and thought I'd
 share in case someone else has issues.
 
 Tools I'm using:
+
 + [Atom Editor](https://atom.io/)
 + [s3cmd](http://s3tools.org/s3cmd)
 + [S3 Browser](http://s3browser.com/)
