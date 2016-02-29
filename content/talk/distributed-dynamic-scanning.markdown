@@ -16,3 +16,5 @@ This presentation was first presented at HP Protect 2014 on Wednesday 10 Septemb
 
   - [Slide Deck Download](http://data.brooksgarrett.com/collateral/decks/protect2014/protect2014_PN3002_Dynamic_Scanning.pdf)
   - [Demonstration Video](http://data.brooksgarrett.com/collateral/decks/protect2014/demo_video.mp4)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/a51sZ9Vv8S11Qs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BrooksGarrett/dynamically-controllable-dynamic-scanning" title="Dynamically Controllable Dynamic Scanning" target="_blank">Dynamically Controllable Dynamic Scanning</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BrooksGarrett">Brooks Garrett</a></strong> </div>
