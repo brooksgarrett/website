@@ -208,7 +208,7 @@ index 0000000..5d54098
 +Funny cats
 ```
 
-Now we have to push (with a helpful --force) this repo out to the remot repo.
+Now we have to push (with a helpful --force) this repo out to the remote repo.
 Then when someone clones the repo again our file will not be present!
 
 ```bash
