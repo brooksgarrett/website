@@ -1,7 +1,7 @@
 ---
-date: 2016-02-28T15:52:45-05:00
+date: "28 Feb 2016"
 tags: [development, windows, git]
-draft: true
+draft: false
 title: Windows with Git
 ---
 
