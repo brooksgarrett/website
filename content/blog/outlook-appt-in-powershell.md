@@ -8,7 +8,7 @@ draft: false
 Here is a simple script to schedule Outlook appointments from Powershell. I use this to automate reminders to myself during the day...
 
 ```powershell
-$folder = $outlook.Session.folders |where-object {$_.Name -eq 'brooks.garrett@hpe.com'}
+$folder = $outlook.Session.folders |where-object {$_.Name -eq 'email@work.com'}
 $cal = $folder.Folders |? {$_.Name -eq "Calendar"}
 $appt = $calendar.Items.Add(1)
 $appt.Start = [datetime]"06/30/2016 17:00"
