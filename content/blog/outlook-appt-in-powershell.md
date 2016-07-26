@@ -1,7 +1,7 @@
 ---
 title: Schedule Outlook Appointments in Powershell
 tags: [sysadmin]
-date: "30 June 2016"
+date: "30 Jun 2016"
 draft: false
 ---
 
