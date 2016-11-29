@@ -31,14 +31,18 @@ Feel free to donate to some of my favority charities:
 **Disclaimer:** I use the Amazon Affiliate program so when you buy something with these links I may receive up to 10% of the purchase price.
 
 ### Lowest Price ($0 - $50)
++  [Mounting Standoffs](https://www.amazon.com/uxcell-M3x30mm-Female-Thread-Standoff/dp/B01461QIQ8/)
 +  [Multi-Port Power Supply](https://www.amazon.com/PwrBlast-5-Port-Charger-Power-Adapter/dp/B00VGLDJZU/ref=sr_1_1)
 +  [Wallet - $30](https://www.blackhelmetapparel.com/product.php?id=Used+Bunker+Gear+Money+Clip+and+CC+Holder+%28Tan%29)
++  [YETI Cooler Lock and Bracket - $35](http://www.dickssportinggoods.com/product/index.jsp?productId=78479316)
++  [LED Light Bar Mount](http://www.roughcountry.com/chevrolet-20in-light-bar-bumper-mounts-70522.html)
 +  [Raspberry Pi 3 - $37](https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_2)
 +  [PoE Switch - $50](https://www.amazon.com/TP-Link-8-Port-Ethernet-Desktop-TL-SF1008P/dp/B003CFATT2/ref=sr_1_3)
 
 
 ### Medium Price ($50 - $100)
 +  [Lansky Battle Axe - $50](http://tacticalgear.com/lansky-battle-axe-black-orange)
++  [LED Light Bar for Truck](https://www.amazon.com/Tuff-Stuff-Performance-Led-120w-7500-Lumens/dp/B00BAYR4AY)
 +  [Rocky Work Boots 9.5W - $85](https://www.amazon.com/Rocky-Duty-Mens-Fort-Black/dp/B0012FEVKW/)
 
 
