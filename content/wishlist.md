@@ -28,17 +28,19 @@ Feel free to donate to some of my favority charities:
 
 ## Gifts
 
-In order of "OMGDOWANT"-ness.
-
 **Disclaimer:** I use the Amazon Affiliate program so when you buy something with these links I may receive up to 10% of the purchase price.
 
 ### Lowest Price ($0 - $50)
-+  [Adult Bag Valve Mask - Disposable](http://www.galls.com/allied-healthcare-products-disposable-bvm-with-handle)
-+  [Pediatric Bag Valve Mask - Disposale](http://www.galls.com/allied-healthcare-products-disposable-pediatric-bvm-with-handle)
++  [Multi-Port Power Supply](https://www.amazon.com/PwrBlast-5-Port-Charger-Power-Adapter/dp/B00VGLDJZU/ref=sr_1_1)
++  [Wallet - $30](https://www.blackhelmetapparel.com/product.php?id=Used+Bunker+Gear+Money+Clip+and+CC+Holder+%28Tan%29)
++  [Raspberry Pi 3 - $37](https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_2)
++  [PoE Switch - $50](https://www.amazon.com/TP-Link-8-Port-Ethernet-Desktop-TL-SF1008P/dp/B003CFATT2/ref=sr_1_3)
+
 
 ### Medium Price ($50 - $100)
-+  [Dyna Med Maxi-Medic Bag](http://www.galls.com/dyna-med-maxi-medic-bag-with-waterproof-bottom)
++  [Lansky Battle Axe - $50](http://tacticalgear.com/lansky-battle-axe-black-orange)
++  [Rocky Work Boots 9.5W - $85](https://www.amazon.com/Rocky-Duty-Mens-Fort-Black/dp/B0012FEVKW/)
 
 
 ### High Price ($100+)
-+  [First Responder Supplies](http://www.galls.com/dyna-med-bls-refill-kit-supplies-only)
++  [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E)
