@@ -33,6 +33,7 @@ Feel free to donate to some of my favority charities:
 ### Lowest Price ($0 - $50)
 +  [Mounting Standoffs](https://www.amazon.com/uxcell-M3x30mm-Female-Thread-Standoff/dp/B01461QIQ8/)
 +  [Multi-Port Power Supply](https://www.amazon.com/PwrBlast-5-Port-Charger-Power-Adapter/dp/B00VGLDJZU/ref=sr_1_1)
++  [Pocket Knife](https://www.amazon.com/USA-Ballistic-MT-A845-Spring-Folding/dp/B01FJ8HID4/)
 +  [Wallet - $30](https://www.blackhelmetapparel.com/product.php?id=Used+Bunker+Gear+Money+Clip+and+CC+Holder+%28Tan%29)
 +  [YETI Cooler Lock and Bracket - $35](http://www.dickssportinggoods.com/product/index.jsp?productId=78479316)
 +  [LED Light Bar Mount](http://www.roughcountry.com/chevrolet-20in-light-bar-bumper-mounts-70522.html)
