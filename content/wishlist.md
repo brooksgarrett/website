@@ -48,3 +48,4 @@ Feel free to donate to some of my favority charities:
 
 ### High Price ($100+)
 +  [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E)
++  [Motorcycle Boots 9.5W - $101](http://tacticalgear.com/ridge-8-all-leather-sz-black#/13878/1749,5131,653/1)
