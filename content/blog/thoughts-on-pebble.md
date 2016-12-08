@@ -49,5 +49,5 @@ Last, the screen is simply amazing. Visible in daylight, low power, plenty of co
 need to be the next mobile device war. I never missed a "touch screen." When riding my motorcycle I could simply look 
 at my wrist to see what notification had come through. No button press or swipe to activate a backlight. Just a glance.
 
-TL;DR; Keep it simple, make it comfortable for extended periods, and make is usable. I truly hope someone steps in to 
+TL;DR; Keep it simple, make it comfortable for extended periods, and make it usable. I truly hope someone steps in to 
 fill the gap that Pebble is leaving. 
