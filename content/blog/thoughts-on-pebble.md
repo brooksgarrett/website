@@ -35,7 +35,7 @@ First, the battery life. Once a week (approximately) my Pebble vibrates to let m
 with a friendly message like, "Charged until tonight." The Apple Watch I tested ran a respectable 48 hours on average. 
 To really drive adoption you have to keep the wearable ON the user. If in your mind you take off the watch to charge it
 once every day or day and a half then you'll start just laeving it on the charger. By contrast, I forgot the charger for 
-my Pebble once and I was very concious of the fact I wasn't wearing it. I literally just never take it off. 
+my Pebble once and I was very conscious of the fact I wasn't wearing it. I literally just never take it off. 
 
 Second, the interface is "simple enough." Pebble did a good job of being an extension of my mobile device and not a 
 replacement. It was a screen for viewing notifications, making quick replies, and getting a HUD type view of my day. 
