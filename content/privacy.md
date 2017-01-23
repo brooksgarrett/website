@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Statement
+date: "23 Jan 2017"
+
+---
+
 PRIVACY STATEMENT
 
 ----
