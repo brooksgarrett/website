@@ -5,11 +5,11 @@ date: "23 Jan 2017"
 
 ---
 
-PRIVACY STATEMENT
+# PRIVACY STATEMENT
 
 ----
 
-SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+## SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our page, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
@@ -18,7 +18,7 @@ When you browse our page, we also automatically receive your computer’s intern
 Email marketing (if applicable): With your permission, we may send you emails about our page, new products and other updates.
 
 
-SECTION 2 - CONSENT
+## SECTION 2 - CONSENT
 
 How do you get my consent?
 
@@ -32,17 +32,17 @@ How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at brooks@brooksgarrett.com or mailing us at: Ten Eight Consulting LLC 4562 Amelia Cir, Hahira, GA, 31632, United States
 
 
-SECTION 3 - DISCLOSURE
+## SECTION 3 - DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
 
-SECTION 4 - RESERVED
+## SECTION 4 - RESERVED
 
 Intentionally left blank.
 
 
-SECTION 5 - THIRD-PARTY SERVICES
+## SECTION 5 - THIRD-PARTY SERVICES
 
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
@@ -58,12 +58,12 @@ As an example, if you are located in Canada and your transaction is processed by
 Once you leave our page’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 
-Links
+### Links
 
 When you click on links on our page, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 
-SECTION 6 - SECURITY
+## SECTION 6 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
@@ -71,19 +71,19 @@ If you provide us with your credit card information, the information is encrypte
 
 
 
-SECTION 7 - AGE OF CONSENT
+## SECTION 7 - AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
 
-SECTION 8 - CHANGES TO THIS PRIVACY POLICY
+## SECTION 8 - CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If our page is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 
-QUESTIONS AND CONTACT INFORMATION
+## QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at brooks@brooksgarrett.com or by mail at Ten Eight Consulting LLC
 
