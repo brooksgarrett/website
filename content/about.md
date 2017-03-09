@@ -2,6 +2,7 @@
 date: "2012-02-24T15:41:48-05:00"
 draft: false
 title: "About Brooks Garrett"
+layout: static
 ---
 
 I'm currently based out of Valdosta, GA and have a wonderful family. I'm infatuated with technology and can't wait to get my hands on the newest tools, techniques, and shiny objects so I can tear them apart and make cool things. That sounds really awesome but speaking thruthfully it really means I stare at a linux console. A LOT.

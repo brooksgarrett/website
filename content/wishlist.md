@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: Wish List
 date: "25 Feb 2016"
 
