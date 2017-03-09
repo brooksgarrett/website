@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: Privacy Statement
 date: "23 Jan 2017"
 
