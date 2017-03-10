@@ -2,7 +2,7 @@
 title: The Complete Node.js Developer Course (2nd Ed.)
 tags: [development, node, udemy, review]
 date: "09 Mar 2017"
-draft: true
+draft: false
 slug: "mead-complete-nodejs"
 ---
 
