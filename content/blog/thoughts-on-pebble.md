@@ -34,7 +34,7 @@ of my thoughts on where the other companies need to emulate to drive better adop
 First, the battery life. Once a week (approximately) my Pebble vibrates to let me know it's time to charge. It does so 
 with a friendly message like, "Charged until tonight." The Apple Watch I tested ran a respectable 48 hours on average. 
 To really drive adoption you have to keep the wearable ON the user. If in your mind you take off the watch to charge it
-once every day or day and a half then you'll start just laeving it on the charger. By contrast, I forgot the charger for 
+once every day or day and a half then you'll start just leaving it on the charger. By contrast, I forgot the charger for 
 my Pebble once and I was very conscious of the fact I wasn't wearing it. I literally just never take it off. 
 
 Second, the interface is "simple enough." Pebble did a good job of being an extension of my mobile device and not a 

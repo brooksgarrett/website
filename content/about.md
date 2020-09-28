@@ -42,5 +42,3 @@ I'm currently in retirement.
 # My Domains
 
 + [Brooks Garrett | https://brooksgarrett.com/](https://brooksgarrett.com/)
-+ [Halligan Security | https://halligansecurity.com/](http://www.halligansecurity.com/)
-+ [RuckLife | http://rucklife.com](http://www.rucklife.com/)
