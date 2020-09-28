@@ -18,7 +18,12 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/site brooksgarrett/hugo
-    - uses: actions/upload-artifact@v2
+    - uses: jakejarvis/s3-sync-action@master
       with:
-        name: site
-        path: ${{ github.workspace }}/public/
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: brooksgarrett.com
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: 'us-east-1'   # optional: defaults to us-east-1
+        SOURCE_DIR: ${{ github.workspace }}/public      # optional: defaults to entire repository
