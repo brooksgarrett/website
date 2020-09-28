@@ -17,4 +17,4 @@ jobs:
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
-        -v ${{ github.workspace }}:/site hugo
+        -v ${{ github.workspace }}:/site brooksgarrett/hugo
