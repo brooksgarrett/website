@@ -1,4 +1,4 @@
-name: Hugo site CI
+name: Generate Hugo Site
 
 on:
   release:
