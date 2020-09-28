@@ -18,3 +18,7 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/site brooksgarrett/hugo
+    - uses: actions/upload-artifact@v2
+      with:
+        name: site
+        path: /site/public/
