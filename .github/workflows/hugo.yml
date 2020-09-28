@@ -1,10 +1,12 @@
-name: Jekyll site CI
+name: Hugo site CI
 
 on:
   release:
-    types: [published]
+    types:
+      - published
   push:
-    branches: [ $default-branch ]
+    branches: 
+      - master
 
 jobs:
   build:
