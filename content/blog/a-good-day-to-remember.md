@@ -6,7 +6,7 @@ draft: false
 slug: "a-good-day-to-remember"
 ---
 
-My Facebook is alive with flags, Pentagon images, and Twin Tower tributes. Make no mistake about it: This is an incredibly important day. Today, 12 years ago, 343 of the Bravest, 60 of the Finest, and 15 of the Strongest perished. These were first responders who trained daily to serve the public but until 9/11 and the estabilishment of DHS and the grants that entity would bring public safety just wasn't prepared for the massive emergency brought by terrorist attacks.
+My Facebook is alive with flags, Pentagon images, and Twin Tower tributes. Make no mistake about it: This is an incredibly important day. Today, 12 years ago, 343 of the Bravest, 60 of the Finest, and 15 of the Strongest perished. These were first responders who trained daily to serve the public but until 9/11 and the establishment of DHS and the grants that entity would bring public safety just wasn't prepared for the massive emergency brought by terrorist attacks.
 
 This day is important for America not for the loss we suffered but for the victory we claimed. Our economy continued, our people survived, our public safety workers received better training. In American tradition we took a stunning blow, recognized the failures, celebrated the successes, broke it down to science, and formulated a path forward that guaranteed we wouldn't be stunned again.
 
