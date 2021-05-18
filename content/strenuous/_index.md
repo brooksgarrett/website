@@ -1,0 +1,3 @@
+---
+title: Living Strenuously Journal
+---
