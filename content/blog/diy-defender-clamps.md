@@ -30,4 +30,4 @@ on a Creality Ender 3.
 
 ![Front Clamp Design](https://data.brooksgarrett.com/defender/designs/front-rollbar-clamp-v3.png)
 
-![Rear Clamp Design](https://data.brooksgarrett.com/defender/designs/rear-rollbar-clamp-v3.png)
+![Rear Clamp Design](https://data.brooksgarrett.com/defender/designs/rear-rollbar-clamp-v2.png)
