@@ -3,7 +3,9 @@ title: MySQL and Efficient Data Encoding
 tags: [mysql, sysadmin]
 date: "08 Aug 2010"
 slug: "mysql-and-efficient-data-encoding"
+summary: This article discusses how to store data efficiently in MySQL to avoid overwhelming the server. The author provides the example of storing hashes for files in the National Software Reference List, and shows how converting the hashes from a hexadecimal string to a binary value can save 50% of the storage space.
 ---
+
 As I've been working to expose the National Software Reference List via a new webservice, I've had to find ways to store data efficiently to avoid nuking my server. One of the biggest issues was the shear size of the database.
 
 Each file record has 2 hashes, a SHA-1 and a MD5 hex-encoded value. Currently, there are 58,272,836 files hashed as part of the NSRL effort. This means 58,272,836 rows of data and 116,545,672 hash values.

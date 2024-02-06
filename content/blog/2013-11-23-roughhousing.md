@@ -4,6 +4,7 @@ tags: [discovered]
 date: "23 Nov 2014"
 draft: false
 slug: "roughhousing"
+summary: The author explains the benefits of roughhousing with children, such as forming a trust bond and gaining a better ability to read and understand them. While playful physical contact may seem aggressive, it can actually be beneficial, as long as parents can distinguish between playful and serious resistance.
 ---
 
 ![Family Roughhousing](http://www.gscdn.org/library/cms/28/19128.jpg)

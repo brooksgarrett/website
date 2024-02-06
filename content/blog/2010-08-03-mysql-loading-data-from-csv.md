@@ -3,7 +3,9 @@ title: MySQL - Loading Data from CSV
 tags: [infrastructure, mysql]
 slug: "mysql-loading-data-from-csv"
 date: "03 Aug 2010"
+summary: This article explains how to load data from a CSV file into a MySQL table using the LOAD DATA LOCAL INFILE command.
 ---
+
 I have a 1.86 GB CSV file which I want to put into a table in MySQL. Originally I started by using VIM to modify the source data to add "INSERT INTO ..." statements in front of each line. This approach quickly turned kludgy and took a painfully long time to complete.
 
 Solution? MySQL includes built in support for doing this exact thing. Here is what I did, tailor to your needs:

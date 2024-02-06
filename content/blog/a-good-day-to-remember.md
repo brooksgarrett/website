@@ -4,6 +4,7 @@ tags: [philosophy, family]
 date: "11 Sep 2013"
 draft: false
 slug: "a-good-day-to-remember"
+summary: This blog post discusses the importance of remembering the 9/11 attacks, not just as a day of mourning, but as a reminder of what America can be. The author urges readers to focus on the important things in life, such as friends, family, and personal happiness, and to take the time to teach their children about these values.
 ---
 
 My Facebook is alive with flags, Pentagon images, and Twin Tower tributes. Make no mistake about it: This is an incredibly important day. Today, 12 years ago, 343 of the Bravest, 60 of the Finest, and 15 of the Strongest perished. These were first responders who trained daily to serve the public but until 9/11 and the establishment of DHS and the grants that entity would bring public safety just wasn't prepared for the massive emergency brought by terrorist attacks.

@@ -4,6 +4,7 @@ tags: [medical, rescue]
 date: "09 Dec 2016"
 draft: false
 slug: "narcan-you"
+summary: Narcan is a rapidly acting drug that can reverse the effects of an opiod overdose and save a life. It is safe and has no contraindications. However, it may cause the person to become irrational or violent as they come out of the overdose. Narcan is available by prescription and is protected by Good Samaritan laws in many states.
 ---
 
 [Opiod](https://en.wikipedia.org/wiki/Opioid)
@@ -84,4 +85,4 @@ irrational or violent. You should be prepared to deal with erratic behaviors as 
 ### I'm not reading all this. TL;DR
 
 I believe Narcan is a valuable asset in any rescuer or civilian medical kit. The ability to rapidly reverse the effects 
-of opiod overdose and save lives is a benefit that outweighs the risk of potentially making drug users complacent. 
+of opiod overdose and save lives is a benefit that outweighs the risk of potentially making drug users complacent.

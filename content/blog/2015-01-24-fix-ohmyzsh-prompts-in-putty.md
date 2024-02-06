@@ -4,6 +4,7 @@ tags: [linux, windows, sysadmin]
 date: "24 Jan 2015"
 draft: false
 slug: "fix-ohmyzsh-prompts-in-putty"
+summary: This article provides a solution to fix the issue of OhMyZSH prompts appearing as strange alphanumeric representations in PuTTY. The solution involves changing the translation setting to UTF-8 and installing a specific font called Meslo Font.
 ---
 
 Part of the draw to oh-my-zsh and zsh in general is the tight git integration. While I'm working on the console I see this:

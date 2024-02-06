@@ -4,6 +4,7 @@ tags: [training]
 date: "12 Aug 2013"
 draft: false
 slug: "free-books-from-msft"
+summary: Microsoft offers a large collection of free electronic books on topics including Windows, Office, Windows Server, Windows Phone, SQL Server, and SharePoint.
 ---
 
 Microsoft apparently has a phat stack of [free books](http://blogs.msdn.com/b/mssmallbiz/archive/2013/06/28/almost-150-free-microsoft-ebooks-covering-windows-7-windows-8-office-2010-office-2013-office-365-office-web-apps-windows-server-2012-windows-phone-7-windows-phone-8-sql-server-2008-sql-server-2012-sharepoint-server-2010-s.aspx)

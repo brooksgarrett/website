@@ -4,6 +4,7 @@ tags: [technology, howto, linux]
 date: "28 Dec 2013"
 draft: false
 slug: "remap-keys-in-ubuntu"
+summary: This article explains how to remap the Caps Lock key to the Escape key in Ubuntu.
 ---
 
 ![A Keyboard](http://data.brooksgarrett.com/images/keyboard.jpg)

@@ -7,6 +7,7 @@ tags: [sdr]
 status: published
 type: article
 published: true
+summary: A volunteer firefighter is building a system to receive and process fire pager alerts using a cheap RTL dongle and an old computer. The system will capture audio files of pages meant for the firefighter's district and send them via email or MMS to the department. Additionally, the system will perform actions at the fire station, such as turning on the compressor, activating lights, playing audio over speakers, and sending the address of the page to a tablet on the fire truck.
 ---
 
 

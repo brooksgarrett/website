@@ -4,7 +4,7 @@ tags: [syasdmin]
 date: "06 Aug 2013"
 draft: false
 slug: "my-experience-with-chef"
-
+summary: The blogger spent weeks trying to install and run Chef, an automation platform, on Ubuntu and Amazon AWS. They encountered various issues, including compatibility problems and outdated configuration scripts. Despite implementing a fix, they faced additional challenges with login credentials. The blogger ultimately concluded that they would rather build servers manually than deal with the difficulties of using Chef.
 ---
 
 [Chef] (http://opscode.com "Chef") is an automation platform that is supposed to make your life easier. Well if you can get it to install. Oh, and run. And don't forget to learn its special syntax which is based on Ruby. So maybe learn some Ruby. AND do try to remember that while Windows is supported, it's still pretty much just an interface into PowerShell.

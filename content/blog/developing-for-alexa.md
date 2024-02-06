@@ -4,6 +4,7 @@ tags: [tech, dev, alexa]
 date: "04 Jan 2017"
 draft: false
 slug: "developing-for-alexa"
+summary: Developing a custom skill for Alexa from zero to production took about 6 hours, including learning AWS Lambda, IAM policies, and Travis-CI setup. Key lessons learned: use a short invocation, account for Alexa's phonetic input, and test thoroughly.
 ---
 
 For my first [1 Project Per Month Challenge](https://medium.com/1ppm/the-1ppm-challenge-eaed5df0ef5a#.2hyi8yhfy) I 

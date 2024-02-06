@@ -4,6 +4,7 @@ tags: [tech, 3d-printing, defender, offroad]
 date: "14 Sep 2021"
 draft: false
 slug: "diy-defender-clamps"
+summary: Instructions to design and 3D print clamps for an amp rack in a Can Am Defender. The clamps are designed to fit 6 or 7 gauge standard screws, and the rears are designed to be left attached while the front clamps are removed to install or remove the rack.
 ---
 
 We've recently begun the process of kitting out our Can Am Defender with tower speakers and bed based subwoofers. 

@@ -6,6 +6,7 @@ tags:
 - tools
 - forensics
 date: "08 Feb 2011"
+summary: Bash and GNU both have a time command, but they have different options. When using the time command with the -f option to specify the format of the output, you need to use the full path to the GNU time command (/usr/bin/time).
 ---
 I'm looking at the computational cost of computing various hashes. Naturally, I
 want to collect run time statistics on each hash command and collect this

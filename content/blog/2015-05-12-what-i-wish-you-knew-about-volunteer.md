@@ -4,7 +4,7 @@ tags: [firefighting, thoughts]
 date: "12 May 2015"
 draft: false
 slug: "what-i-wish-you-knew-about-volunteer"
-
+summary: An explanation of what volunteer firefighters do, their training, and how they compare to career firefighters. The author corrects a misconception about volunteers being less qualified than career firefighters and emphasizes the importance of volunteer fire departments in serving communities at a low cost. The author encourages people to consider volunteering, even if they don't want to fight fires, as there are various roles to fill in a volunteer fire department.
 ---
 
 Sunday morning our department was paged out to support a life flight helicopter landing at a local hospital. It's a pretty routine thing. We get the page, we respond to the station and retrieve an engine, and lastly we secure the landing pad and provide safety for the incoming aircraft. On this particular morning the call went out around 0600 and we were there by 0608. Afterward around 0730 I decided to stop in the gas station to grab a soda before going home. Inside the attendant asked about my radio and when I told her I was a volunteer she said:

@@ -4,6 +4,7 @@ tags: [thoughts]
 date: "29 Jul 2015"
 draft: false
 slug: "where-d-you-go"
+summary: The author apologizes for his absence, explaining that he has been busy working on a course at Black Hat and transitioning to a new position at his job. He expresses gratitude for the support of his family and colleagues and announces an upcoming talk called *pandocmonium* about a new documentation framework.
 ---
 
 I've been gone for a while and sorry (truly) for that. I've been really busy lately working on assisting with a course being taught at Black Hat and transitioning into a new position at my primary job.
