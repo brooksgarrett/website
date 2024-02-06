@@ -4,6 +4,7 @@ tags: [linux, blogging]
 date: "22 Jan 2015"
 draft: false
 slug: "write-more-with-vi-and-bash"
+summary: A blog post describing a method to streamline the process of creating new blog posts by using a template, an awk script, and a shell script.
 ---
 
 Part of my New Year's resolution is to write more. My challenge is I'm incredibly busy and incredibly lazy.

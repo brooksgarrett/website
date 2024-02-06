@@ -4,6 +4,7 @@ tags: [sysadmin]
 date: "16 Sep 2014"
 draft: false
 slug: "jekyll-github-travisci-s3"
+summary: This blog post describes a workflow for building and deploying a static site using Jekyll, GitHub, TravisCI, and S3. The workflow involves writing content in markdown, versioning and managing the content with Git on GitHub, and using TravisCI to build and deploy the site to S3 when new content is pushed to GitHub. The post includes instructions on setting up the necessary files and configurations for TravisCI, Jekyll, Ruby, and S3.
 ---
 
 For a while now I've been exclusively using [Jekyll][jekyll] to publish my site. At first I started with basic [Jekyll][jekyll] running on [DigitalOcean][do]. This worked well but meant I needed to SSH to a server when I wanted to post content. Not _really_ the best requirement for a seamless workflow but it worked for a while. Then I started using Git and GitHub to manage the content as a repository. A bit of php later and I had a post-commit hook in GitHub to notify the [DigitalOcean][do] server that new content was ready. This was better but broke all the time for random reasons.

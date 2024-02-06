@@ -3,6 +3,7 @@ title: MySQL and Indexes
 tags: [mysql, sysadmin, infrastructure]
 slug: "mysql-and-indexes"
 date: "03 Aug 2010"
+summary: Indexes can drastically improve the performance of queries on large tables. Adding indexes to the sha1 and md5 columns of a table with over 1 million rows reduced the query runtime from 1 minute and 47 seconds to 0 seconds.
 ---
 So what happens when you have over 1 million rows in a table and you try to do a lookup?
 

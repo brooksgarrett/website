@@ -4,6 +4,7 @@ tags: [sysadmin]
 date: "16 Sep 2014"
 draft: false
 slug: "justgetflux"
+summary: Flux is a program that adjusts your screen temperature to match ambient light levels, making it more enjoyable to use your computer at night. It is available for Linux, Mac, and Windows.
 ---
 
 A friend of mine recommended I try out [Flux](https://justgetflux.com) and I'm ever glad I did. The basic premise is that Flux monitors the time of day and adjusts your screen temperature (or hue) to match ambient light levels. The result is a much more enjoyable session at night. I'm sitting in my living room with only a single lamp on and the glow of the light bulb on the keyboard is a near identical match to the color setting suggested by Flux.

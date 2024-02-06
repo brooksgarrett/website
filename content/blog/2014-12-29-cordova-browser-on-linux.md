@@ -4,6 +4,7 @@ tags: [mobile]
 date: "29 Dec 2014"
 draft: false
 slug: "cordova-browser-on-linux"
+summary: Running Cordova browser platform on Linux requires a modification to the script used to launch the browser.
 ---
 
 I'm working on a new mobile application which, of course, means [Cordova](http://cordova.apache.org/). Recently Cordova added the "browser" platform so you can test your application right on the desktop with no hackery required.

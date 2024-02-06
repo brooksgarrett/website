@@ -3,6 +3,7 @@ title: 404 Pages in WordPress
 tags: [wordpress]
 slug: "404-pages-in-wordpress"
 date: "04 Dec 2009"
+summary: This article provides two possible reasons for receiving a 404 error in WordPress and explains how to resolve the issues.
 ---
 
 If you are receiving a 404 in WordPress, there are 2 possible causes:

@@ -4,7 +4,7 @@ tags: [technology, howto, linux]
 date: "31 Jan 2014"
 draft: false
 slug: "intro-to-podcast"
-
+summary: The author wants to start a podcast about InfoSec.
 ---
 
 ![An image depicting a podcast](http://www.arktimes.com/binary/dc71/1307133648-podcast.png)

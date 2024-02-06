@@ -4,6 +4,7 @@ tags: [philosophy]
 date: "25 Oct 2013"
 draft: false
 slug: "sriracha-the-spice-of-life"
+summary: Sriracha's founder chose to prioritize providing a quality product over maximizing profits, setting an example for businesses to focus on quality work and personal satisfaction rather than relentless growth and profit maximization.
 ---
 *Note: This article is the start of a series investigating how cross industry lessons can be directly applied to the IT and Information Security spaces.*
 

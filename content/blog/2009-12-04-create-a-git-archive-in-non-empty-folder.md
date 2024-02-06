@@ -5,6 +5,7 @@ tags:
 - tools
 date: "04 Dec 2009"
 slug: "create-a-git-archive-in-non-empty-folder"
+summary: A guide on how to create a Git archive in a non-empty folder by initializing a Git repository, adding a remote, fetching the remote repository, creating a local branch, and checking out the local branch.
 ---
 
 ```bash

@@ -3,6 +3,7 @@ date: "26 Jul 2016"
 tags: [compliance, nist]
 draft: false
 title: NIST Deprecates SMS 2FA
+summary: NIST has announced that SMS messages should no longer be used as an Out of Band (OOB) token for 2 Factor Authentication (2FA) due to the risk of interception or redirection. Implementers of new systems are advised to consider alternative authenticators such as x509 or TOTP.
 ---
 
 While you were sleeping, NIST has released their latest public draft of 

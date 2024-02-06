@@ -3,6 +3,7 @@ title: "Thoughts on Community"
 date: "10 Sep 2015"
 tags: [community,social]
 slug: "thoughts-on-community"
+summary: "The article discusses a recent controversy in the information security community regarding a joke made by a conference host, which led to the host being barred from volunteering at the conference and several board members and sponsors withdrawing their support. The author argues that this incident highlights the importance of free speech and the need for the community to be able to police itself, rather than relying on external censorship."
 ---
 
 Another day dawns in the world of Information Security and along with it new controversy and drama. If you haven't been watching

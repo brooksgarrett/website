@@ -4,6 +4,7 @@ tags: [infosec, hacking, intro]
 date: "25 Aug 2013"
 draft: false
 slug: "hacking-resources"
+summary: This article is a collection of resources for self-education and training in the field of information security, including hacking techniques, programming, reference materials, and CTF competitions.
 ---
 
 This is just a place holder for interesting resource for self-education in InfoSec.

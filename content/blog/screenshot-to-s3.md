@@ -3,6 +3,7 @@ date: 2016-02-29T11:19:26-05:00
 draft: false
 title: Screenshot to S3
 tags: ["aws", "blog"]
+summary: A simple solution for managing images is described. Images are uploaded to S3 using Greenshot, Atom Editor, s3cmd, S3 Browser, and PowerShell. The script is added to Greenshot as an external command. When a screenshot is sent to S3, the script uploads the image with the appropriate name and copies a link to the clipboard.
 ---
 
 I've been writing in pure [markdown](https://daringfireball.net/projects/markdown/)

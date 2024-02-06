@@ -4,7 +4,7 @@ tags: [sysadmin,projects]
 date: "09 Sep 2015"
 draft: false
 slug: "dynamicdns-with-cloudflare"
-
+summary: This blog article describes how to use CloudFlare as a free DDNS provider. The author created a Ruby based DDNS client to modify CloudFlare. The client is called CFDDNS-Ruby and is available on GitHub. The author shares some lessons learned while creating the client, such as not using rest-client and using unirest instead.
 ---
 
 I've been using [CloudFlare](www.cloudflare.com) for a while now to protect my sites and generally make life easy. If you haven't seen it before then stop here and [go check them out](https://www.cloudflare.com). I'll wait.

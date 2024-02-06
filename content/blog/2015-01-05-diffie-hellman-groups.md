@@ -4,6 +4,7 @@ tags: [vpn, technical, reference]
 date: "05 Jan 2015"
 draft: false
 slug: "diffie-hellman-groups"
+summary: This article clarifies the relationship between the bit strength and group number for Diffie-Hellman groups used in VPNs. It provides a table that maps group numbers to bit strengths, including groups 1, 2, 5, 14, 15, 19, and 20.
 ---
 
 I've been working with VPNs quite a bit recently and keep running into issues where the other party uses the bit strength and group number for Diffie-Hellman groups interchangeably. Here is a quick reference list:

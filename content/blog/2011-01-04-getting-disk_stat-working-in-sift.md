@@ -3,6 +3,7 @@ title: Getting disk_stat Working in SIFT
 tags: [forensics, volume analysis]
 date: "04 Jan 2011"
 slug: "getting-disk_stat-working-in-sift"
+summary: This article provides a solution to an error encountered when running disk_stat in the SIFT (SANS Investigative Forensic Toolkit) Workstation VMWare appliance. The error occurs because the libssl.so.7 and libcrypto.so libraries are missing. The solution is to create symbolic links in /usr/lib pointing to these libraries.
 ---
 
 SANS publishes the SIFT (SANS Investigative Forensic Toolkit) Workstation as a VMWare appliance.

@@ -3,6 +3,7 @@ date: "28 Feb 2016"
 tags: [development, windows, git]
 draft: false
 title: Windows with Git
+summary: The author describes how to set up a Windows machine for development using Git, Atom as a text editor, KeePass 2 and KeeAgent for password management, and plink for SSH.
 ---
 
 I've nearly exclusively used Linux for all blogging, development, and research.

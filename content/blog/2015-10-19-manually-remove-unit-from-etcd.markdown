@@ -3,6 +3,7 @@ title: "Manually remove unit from etcd"
 date: "19 Oct 2015"
 tags: [community,social]
 slug: "manually-remove-unit-from-etcd"
+summary: This article describes how to manually remove a unit (consul@.service) from fleet using etcd when Docker and Consul are used with a CoreOS cluster that is running etcd2 instead of etcd.
 ---
 
 Long story short I was playing with Docker and got myself into quite the bind.

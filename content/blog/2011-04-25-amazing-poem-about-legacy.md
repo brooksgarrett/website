@@ -3,7 +3,9 @@ title: Amazing Poem About Legacy
 tags: [poetry]
 date: "25 Apr 2011"
 slug: amazing-poem-about-legacy
+summary: "The Bridge Builder" is an inspiring poem about a man who builds a bridge not for his own benefit, but for the benefit of those who will come after him. It is a reminder that we should always be mindful of the impact our actions will have on future generations.
 ---
+
   **The Bridge Builder**
 
 ```text

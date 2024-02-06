@@ -4,6 +4,7 @@ tags: [sysadmin]
 date: "09 Mar 2013"
 draft: false
 slug: "renaming-volume-groups-in-linux"
+summary: This article provides a step-by-step guide on how to rename volume groups in Linux. It includes instructions on changing the kernel boot parameters, remounting the filesystem, editing the /etc/fstab and /etc/grub.conf files, and rebooting the system to complete the renaming process.
 ---
 What is that you say? Cloned a Linux machine and decided to rename that misnamed volume group using <em>vgrename /dev/vg_RAWRStupidName /dev/vg_NiceName</em>?
 Oh and now your rebooted without first changing your <em>/etc/fstab</em> and <em>/etc/grub.conf</em> and get a good old fashioned <strong>Kernel Panic</strong>?
