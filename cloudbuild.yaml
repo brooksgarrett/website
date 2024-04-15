@@ -1,0 +1,9 @@
+steps:
+  - name: 'us-central1-docker.pkg.dev/website-420415/build-images/hugo:latest'
+    entrypoint: 'hugo'
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    args:
+      - gsutil
+      - rsync
+      - /workspace/public
+      - gs://brooksgarrett.com
