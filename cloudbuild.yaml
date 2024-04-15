@@ -4,6 +4,8 @@ steps:
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     args:
       - gsutil
+      - -m
       - rsync
+      - -r
       - /workspace/public
       - gs://brooksgarrett.com
