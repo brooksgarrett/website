@@ -3,6 +3,7 @@ ADD https://github.com/gohugoio/hugo/releases/download/v0.75.1/hugo_extended_0.7
 WORKDIR /usr/local/bin
 RUN tar xvzf /tmp/hugo.tgz
 
+
 FROM ubuntu
 COPY --from=build /usr/local/bin/hugo /usr/local/bin/hugo
 RUN mkdir /site
