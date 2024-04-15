@@ -6,6 +6,5 @@ RUN tar xvzf /tmp/hugo.tgz
 
 FROM ubuntu
 COPY --from=build /usr/local/bin/hugo /usr/local/bin/hugo
-RUN mkdir /site
-WORKDIR /site
+WORKDIR /workspace
 ENTRYPOINT ["hugo"]
